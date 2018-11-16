@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.599,=D:\Documents\Embarcadero\Studio\Projects\Applicaties\MD-SAT\Source\DSmodelS\Models\Dsmodel115\uProgramSettings.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.361,D:\Documents\Embarcadero\Studio\Projects\Applicaties\MD-SAT\Source\DSmodelS\Models\Dsmodel115\uProgramSettings.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.866,D:\Documents\Embarcadero\Studio\Projects\Applicaties\MD-SAT\Source\DSmodelS\Models\Dsmodel115\uDefault.pas=D:\Documents\Embarcadero\Studio\Projects\Applicaties\MD-SAT\Source\DSmodelS\Models\Dsmodel115\uHlpDsModel115.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.866,D:\Documents\Embarcadero\Studio\Projects\Applicaties\MD-SAT\Source\DSmodelS\Models\Dsmodel115\uDefault.dfm=D:\Documents\Embarcadero\Studio\Projects\Applicaties\MD-SAT\Source\DSmodelS\Models\Dsmodel115\uHlpDsModel115.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.984,D:\Documents\Embarcadero\Studio\Projects\Applicaties\MD-SAT\Source\DSmodelS\Models\Dsmodel115\Default.dproj=D:\Documents\Embarcadero\Studio\Projects\Applicaties\MD-SAT\Source\DSmodelS\Models\Dsmodel115\HlpDSmodel115.dproj</Transaction>
+    <Transaction>2018/11/16 11:10:08.000.384,D:\Documents\Embarcadero\Studio\Projects\MyProjects\MD-SAT\Source\DSmodelS\Models\Dsmodel115\uModel115ProgramSettings.pas=D:\Documents\Embarcadero\Studio\Projects\MyProjects\MD-SAT\Source\DSmodelS\Models\Dsmodel115\uProgramSettings.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\..\..\OPTSETS\MD-SAT-test.optset"/>
+    <File Path="uHlpDsModel115.pas"/>
+    <File Path="uHlpDsModel115.dfm"/>
+    <File Path="uModel115ProgramSettings.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
