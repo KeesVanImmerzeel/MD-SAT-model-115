@@ -1,0 +1,109 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"AVStr"
+	Roots:	2
+	Roots:	3
+	Version:	32
+)
+
+(AVStr.2
+	S:	"Value"
+)
+
+(List.3
+	Child:	4
+	Child:	5
+	Child:	6
+	Child:	7
+	Child:	8
+	Child:	9
+	Child:	10
+	Child:	11
+	Child:	12
+	Child:	13
+	Child:	14
+	Child:	15
+)
+
+(LClass.4
+	Label:	"0"
+	Precision:	-3
+)
+
+(LClass.5
+	Label:	"1"
+	MinNum:	1.00000000000000
+	MaxNum:	1.00000000000000
+	Precision:	-3
+)
+
+(LClass.6
+	Label:	"9"
+	MinNum:	2.00000000000000
+	MaxNum:	2.00000000000000
+	Precision:	-3
+)
+
+(LClass.7
+	Label:	"3"
+	MinNum:	3.00000000000000
+	MaxNum:	3.00000000000000
+	Precision:	-3
+)
+
+(LClass.8
+	Label:	"4"
+	MinNum:	4.00000000000000
+	MaxNum:	4.00000000000000
+	Precision:	-3
+)
+
+(LClass.9
+	Label:	"5"
+	MinNum:	5.00000000000000
+	MaxNum:	5.00000000000000
+	Precision:	-3
+)
+
+(LClass.10
+	Label:	"6"
+	MinNum:	6.00000000000000
+	MaxNum:	6.00000000000000
+	Precision:	-3
+)
+
+(LClass.11
+	Label:	"0"
+	MinNum:	7.00000000000000
+	MaxNum:	8.00000000000000
+	Precision:	-3
+)
+
+(LClass.12
+	Label:	"10"
+	MinNum:	9.00000000000000
+	MaxNum:	9.00000000000000
+	Precision:	-3
+)
+
+(LClass.13
+	Label:	"14"
+	MinNum:	10.00000000000000
+	MaxNum:	10.00000000000000
+	Precision:	-3
+)
+
+(LClass.14
+	Label:	"0"
+	MinNum:	11.00000000000000
+	MaxNum:	99.00000000000000
+	Precision:	-3
+)
+
+(LClass.15
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+

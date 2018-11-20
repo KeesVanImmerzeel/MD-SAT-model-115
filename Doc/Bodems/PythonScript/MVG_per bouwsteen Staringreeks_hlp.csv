@@ -1,0 +1,37 @@
+StrngCode,Textuur,Teta_r,Teta_s,Alpha,n,Ks,I,Walrus
+B1,"Leemarm zeer fijn tot matig fijn zand",0.00,0.37,0.0208,1.646,33.34,0.571,1
+B2,"Zwak lemig zeer fijn tot matig fijn zand",0.00,0.43,0.0224,1.436,32.21,-0.304,2
+B3,"Sterk lemig zeer fijn tot matig fijn zand",0.00,0.45,0.0152,1.412,17.81,-0.213,3
+B4,"Zeer sterk lemig zeer fijn tot matig fijn zand",0.00,0.42,0.0163,1.559,54.80,0.177,4
+B5,Grof zand,0.01,0.36,0.0452,1.933,52.91,-0.359,1
+B6,Keileem,0.01,0.38,0.0222,1.238,100.69,-1.747,8
+B7,Zeer lichte zavel,0.00,0.40,0.0158,1.287,25.10,0.248,5
+B8,Matig lichte zavel,0.00,0.40,0.0313,1.200,22.90,-3.578,2
+B9,Zware zavel,0.00,0.43,0.0065,1.325,1.54,-2.161,3
+B10,Lichte klei,0.00,0.44,0.0519,1.216,31.10,-6.552,7
+B11,Matig zware klei,0.00,0.51,0.1562,1.099,63.60,-8.067,8
+B12,Zeer zware klei,0.00,0.57,0.1689,1.068,98.20,-10.286,11
+B13,Zandige leem,0.01,0.42,0.0084,1.441,12.98,-1.497,3
+B14,Siltige leem,0.01,0.42,0.0051,1.305,0.80,0.000,3
+B15,Venig zand,0.01,0.53,0.0242,1.280,81.28,-1.476,1
+B16,Zandig veen en veen,0.00,0.73,0.0134,1.320,13.44,0.534,1
+B17,Venige klei,0.00,0.72,0.0180,1.140,4.46,-0.350,9
+B18,Kleiig veen,0.00,0.71,0.0284,1.141,34.80,1.086,9
+O1,"Leemarm zeer fijn tot matig fijn zand",0.00,0.35,0.0220,2.186,99.70,0.796,1
+O2,"Zwak lemig zeer fijn tot matig fijn zand",0.00,0.38,0.0182,1.870,63.90,0.911,2
+O3,"Sterk lemig zeer fijn tot matig fijn zand",0.00,0.34,0.0265,1.543,44.60,-0.333,3
+O4,"Zeer sterk lemig zeer fijn tot matig fijn zand",0.00,0.36,0.0216,1.540,53.10,-0.520,4
+O5,Grof zand,0.00,0.33,0.0524,1.912,223.00,0.873,1
+O6,Keileem,0.00,0.41,0.0291,1.152,5.48,-6.864,5
+O7,Beekleem,0.01,0.51,0.0123,1.152,39.10,-2.023,5
+O8,Zeer lichte zavel,0.00,0.42,0.0248,1.321,26.40,-0.622,2
+O9,Matig lichte zavel,0.00,0.41,0.0280,1.283,24.00,-1.559,2
+O10,Zware zavel,0.00,0.44,0.0231,1.212,25.60,-2.220,2
+O11,Lichte klei,0.00,0.42,0.0420,1.125,61.00,-3.706,9
+O12,Matig zware klei,0.00,0.49,0.0384,1.113,10.80,-6.743,10
+O13,Zeer zware klei,0.00,0.58,0.1122,1.063,38.00,-12.538,11
+O14,Zandige leem,0.00,0.38,0.0025,1.686,0.36,0.057,3
+O15,Siltige leem,0.00,0.43,0.0207,1.224,57.42,-2.077,4
+O16,Oligotroof veen,0.00,0.87,0.0179,1.275,14.66,0.539,1
+O17,Mesotroof en eutroof veen,0.00,0.89,0.0145,1.252,30.45,1.019,1
+O18,Moerige tussenlaag,0.01,0.57,0.0138,1.323,34.45,-1.204,2

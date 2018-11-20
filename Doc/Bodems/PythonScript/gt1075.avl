@@ -1,0 +1,365 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	45
+	Class:	46
+	Class:	47
+	Class:	48
+	Class:	49
+	Class:	50
+	Class:	51
+	Class:	52
+	Class:	53
+	Class:	54
+	StdDevs:	1.00000000000000
+	NullSym:	55
+	NullValues:	59
+	StatValues:	60
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Gt_code"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	13
+	Child:	17
+	Child:	21
+	Child:	25
+	Child:	29
+	Child:	33
+	Child:	37
+	Child:	41
+)
+
+(BShSym.5
+	Color:	6
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+)
+
+(TClr.6
+	Red:	0x2456
+	Green:	0x1c6f
+	Blue:	0x81ff
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.9
+	Color:	10
+	OutlineColor:	11
+	OutlineWidth:	0.10000000000000
+	BgColor:	12
+)
+
+(TClr.10
+	Red:	0x37c7
+	Green:	0x3af3
+	Blue:	0xfeff
+)
+
+(TClr.11
+)
+
+(TClr.12
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.13
+	Color:	14
+	OutlineColor:	15
+	OutlineWidth:	0.10000000000000
+	BgColor:	16
+)
+
+(TClr.14
+	Red:	0xae6d
+	Green:	0xa559
+	Blue:	0xfeff
+)
+
+(TClr.15
+)
+
+(TClr.16
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.17
+	Color:	18
+	OutlineColor:	19
+	OutlineWidth:	0.10000000000000
+	BgColor:	20
+)
+
+(TClr.18
+	Red:	0xdb
+	Green:	0xd1c7
+	Blue:	0xdc00
+)
+
+(TClr.19
+)
+
+(TClr.20
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.21
+	Color:	22
+	OutlineColor:	23
+	OutlineWidth:	0.10000000000000
+	BgColor:	24
+)
+
+(TClr.22
+	Red:	0xa559
+	Green:	0xfad1
+	Blue:	0xff00
+)
+
+(TClr.23
+)
+
+(TClr.24
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.25
+	Color:	26
+	OutlineColor:	27
+	OutlineWidth:	0.10000000000000
+	BgColor:	28
+)
+
+(TClr.26
+	Red:	0xa610
+	Green:	0xff00
+	Blue:	0xa559
+)
+
+(TClr.27
+)
+
+(TClr.28
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.29
+	Color:	30
+	OutlineColor:	31
+	OutlineWidth:	0.10000000000000
+	BgColor:	32
+)
+
+(TClr.30
+	Red:	0xff00
+	Green:	0xf963
+	Blue:	0xa559
+)
+
+(TClr.31
+)
+
+(TClr.32
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.33
+	Color:	34
+	OutlineColor:	35
+	OutlineWidth:	0.10000000000000
+	BgColor:	36
+)
+
+(TClr.34
+	Red:	0xff00
+	Green:	0xa559
+	Blue:	0xa559
+)
+
+(TClr.35
+)
+
+(TClr.36
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.37
+	Color:	38
+	OutlineColor:	39
+	OutlineWidth:	0.10000000000000
+	BgColor:	40
+)
+
+(TClr.38
+	Red:	0xfeff
+	Green:	0x5aa4
+	Blue:	0x5aa4
+)
+
+(TClr.39
+)
+
+(TClr.40
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.41
+	Color:	42
+	Outline:	1
+	OutlineColor:	43
+	OutlineWidth:	0.10000000000000
+	BgColor:	44
+)
+
+(TClr.42
+	Name:	"Transparent"
+)
+
+(TClr.43
+	Name:	"Transparent"
+)
+
+(TClr.44
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.45
+	Label:	"Open Water"
+	MinNum:	10.00000000000000
+	MaxNum:	10.00000000000000
+	Precision:	-3
+)
+
+(LClass.46
+	Label:	"Gt I"
+	MinNum:	20.00000000000000
+	MaxNum:	20.00000000000000
+	Precision:	-3
+)
+
+(LClass.47
+	Label:	"Gt II"
+	MinNum:	20.00000000000000
+	MaxNum:	29.00000000000000
+	Precision:	-3
+)
+
+(LClass.48
+	Label:	"Gt III"
+	MinNum:	30.00000000000000
+	MaxNum:	39.00000000000000
+	Precision:	-3
+)
+
+(LClass.49
+	Label:	"Gt IV"
+	MinNum:	40.00000000000000
+	MaxNum:	40.00000000000000
+	Precision:	-3
+)
+
+(LClass.50
+	Label:	"Gt V"
+	MinNum:	50.00000000000000
+	MaxNum:	59.00000000000000
+	Precision:	-3
+)
+
+(LClass.51
+	Label:	"Gt VI"
+	MinNum:	60.00000000000000
+	MaxNum:	60.00000000000000
+	Precision:	-3
+)
+
+(LClass.52
+	Label:	"Gt VII"
+	MinNum:	70.00000000000000
+	MaxNum:	74.00000000000000
+	Precision:	-3
+)
+
+(LClass.53
+	Label:	"Gt VII*"
+	MinNum:	75.00000000000000
+	MaxNum:	100.00000000000000
+	Precision:	-3
+)
+
+(LClass.54
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BShSym.55
+	Color:	56
+	Outline:	1
+	OutlineColor:	57
+	OutlineWidth:	0.10000000000000
+	BgColor:	58
+)
+
+(TClr.56
+	Name:	"Transparent"
+)
+
+(TClr.57
+	Name:	"Transparent"
+)
+
+(TClr.58
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.59
+)
+
+(NameDict.60
+)
+

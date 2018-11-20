@@ -1,0 +1,21 @@
+************* EParray[ 1 ]: TestFile **********
+1             Aantal tijdsonafhankelijke tabellen: (=xInDep)
+0             ***table 0: table-type 0 (no interpolation) 
+1 1           UITVOERTIJDSTIPPEN (d)
+1
+4             Aantal tijdsafhankelijk (xy)-tabellen (=xDep)******************
+0             table 0: table-type 0 (no interpolation)
+1             Gewas
+0 1           1-14
+0             table 1: table-type 0 (no interpolation)
+1             Bodemtype
+0 1           (1-72)
+0             table 2: table-type 0 (no interpolation)
+1             GHG (m-mv)           
+0 0.30
+0             table 3: table-type 0 (no interpolation)
+1             GLG (m-mv)
+0 1.10        
+
+
+
